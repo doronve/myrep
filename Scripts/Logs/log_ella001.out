@@ -1,0 +1,15 @@
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/VolGroup00-LogVol00
+                      1.3T  906G  348G  73% /
+/dev/sda1              99M   44M   50M  47% /boot
+tmpfs                  16G     0   16G   0% /dev/shm
+10.232.83.12:/vol/nfstc
+                      1.5T  883G  654G  58% /netapp_nfs
+10.232.83.12:/vol/ISOs
+                      200G  143G   58G  72% /netapp_ISOs
+10.232.83.12:/vol/CDH5
+                      100G  9.6M  100G   1% /CDH5
+10.232.83.12:/vol/CDH45
+                      150G   52G   99G  35% /CDH45
+/netapp_ISOs/rhel-server-5.8-x86_64-dvd.iso
+                      3.9G  3.9G     0 100% /mnt/RHEL5

@@ -1,0 +1,5 @@
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/VolGroup00-LogVol00
+                      870G  616G  210G  75% /
+/dev/sda1              99M   28M   67M  30% /boot
+tmpfs                  16G     0   16G   0% /dev/shm
