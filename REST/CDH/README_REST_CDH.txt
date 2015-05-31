@@ -7,11 +7,10 @@
 #   - get_cluster_hosts.sh - get the list of host(s) in the cluster(s)
 #
 #   - cre_cluster.sh
-#   - g2.sh
-#   - g3.sh
-#   - get1.sh
-#   - get2.sh
 #   - get_all_cluster_hosts.sh
 #   - get_all_cluster_hosts.sh.sav
 #   - myhome1.html
 #   - myhome.html
+#   - cdhRest.py - functions to access CDH using REST api
+#   - modify_oozie_config.py - modify some oozie parameters
+#   - modify_yarn_config.py - modify some yarn parameters
